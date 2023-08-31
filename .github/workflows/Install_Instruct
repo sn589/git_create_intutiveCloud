@@ -1,0 +1,5 @@
+make sure you have terraform installed in your machine and then run the command 
+
+
+>> terraform init
+>> terraform apply
